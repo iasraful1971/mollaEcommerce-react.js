@@ -1,0 +1,46 @@
+.hero{
+    padding: 20px 0;
+}
+.slider1{
+    background-image: url(../../images/slide-1.jpg);
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+.slider2{
+    background-image: url(../../images/slide-2.jpg);
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+}
+h1{
+    color: purple;
+    font-weight: bold;
+    font-size: 50px;
+}
+h3{
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+}
+button{
+    color: #fff;
+    background: #FCB942;
+    border-radius: 50px;
+    padding: 10px 30px;
+    border: none;
+    outline: none;
+}
+.banner .two{
+   padding: 30px 0;
+}

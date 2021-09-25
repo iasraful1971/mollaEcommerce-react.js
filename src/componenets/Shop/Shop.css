@@ -1,0 +1,28 @@
+.cart-container{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 30px;
+    border-radius: 20px;
+    background: #fff;
+    
+    width: 50%;
+   
+   
+    
+}
+.cart-area{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+.product-container .product-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+    background:#fff;
+}
+.shop-container{
+    background:cornsilk;
+    padding: 30px;
+    break-before: 50px;
+}

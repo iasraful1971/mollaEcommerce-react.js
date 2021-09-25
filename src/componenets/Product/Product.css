@@ -1,0 +1,14 @@
+.single-product{
+    padding: 20px;
+    border: 1px solid #999;
+    border-radius: 20px;
+}
+.single-product img{
+   width: 250px;
+   height: 200px;
+   padding: 20px 0;
+}
+.star{
+    padding: 10px 0;
+    color:rgb(245, 185, 32);
+}
